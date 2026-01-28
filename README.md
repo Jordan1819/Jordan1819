@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jordan
 
 🛠️ Junior Software Engineer
-💻 Passionate about building clean, scalable systems with pragmatic software solutions
+💻 Passionate about building pragmatic software with strong architectural foundations
 🧠 Interested in system design, full-stack development, and AI engineering
 🏋️ Always optimizing — code, health, and mindset
 
@@ -36,12 +36,12 @@ A character creation assistant for the classic tabletop fantasy game
 
 ### 🏋️ **StrengthSync**
 Android resistance training companion app  
-**Kotlin · Room · MVVM**
+**Kotlin · Room DB· Android Studio**
 - Personalized algorithmic workout plan generation based on user preferences
-- Persistent data with Room database
+- Persistent data with built-on relational Room database
 - Focus on maintainable architecture and clean UI logic
 
-### 🌕 **Lunar Lander **
+### 🌕 **Lunar Lander**
 Clasic retro arcade game rebuilt
 **C# · Windows Forms · Custom Physics Engine**
 - Engineered a full custom physics engine in C#
@@ -65,6 +65,3 @@ Clasic retro arcade game rebuilt
 - 📧 Open to collaboration and opportunities
 
 ---
-
-> *“Always leave the codebase better than you found it.”*
-
