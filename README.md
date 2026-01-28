@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Jordan
 
-🛠️ Junior Software Engineer
-💻 Passionate about building pragmatic software with strong architectural foundations
-🧠 Interested in system design, full-stack development, and AI engineering
-🏋️ Always optimizing — code, health, and mindset
+🛠️ Junior Software Engineer  
+💻 Passionate about building pragmatic software with strong architectural foundations  
+🧠 Interested in system design, full-stack development, and AI engineering  
+🏋️ Always optimizing — code, health, and mindset  
 
 ---
 
@@ -28,7 +28,7 @@
 ## 🚀 Featured Projects
 
 ### ⚔️ **AI-Powered D&D Character Creator**
-A character creation assistant for the classic tabletop fantasy game
+A character creation assistant for the classic tabletop fantasy game  
 **Python · Quart · OpenAI (ChatGPT) API · Poetry**
 - Engineered a backend application to simulate character creation workflow
 - Implemented query optimization and prompt engineering logic
@@ -43,7 +43,7 @@ Android resistance training companion app
 
 ### 🌕 **Lunar Lander**
 Clasic retro arcade game rebuilt
-**C# · Windows Forms · Custom Physics Engine**
+**C# · Windows Forms · Custom Physics Engine**  
 - Engineered a full custom physics engine in C#
 - Built with modular, object-oriented structure
 - Implemented interactive UI systems for menus and other HUD elements
