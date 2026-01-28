@@ -42,7 +42,7 @@ Android resistance training companion app
 - Focus on maintainable architecture and clean UI logic
 
 ### 🌕 **Lunar Lander**
-Clasic retro arcade game rebuilt
+Clasic retro arcade game  
 **C# · Windows Forms · Custom Physics Engine**  
 - Engineered a full custom physics engine in C#
 - Built with modular, object-oriented structure
