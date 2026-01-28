@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Hi, I'm Jordan
 
-<!--
-**Jordan1819/Jordan1819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Junior Software Engineer
+💻 Passionate about building clean, scalable systems with pragmatic software solutions
+🧠 Interested in system design, full-stack development, and AI engineering
+🏋️ Always optimizing — code, health, and mindset
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-black)
+![Java](https://img.shields.io/badge/Java-red)
+![C#](https://img.shields.io/badge/C%23-purple)
+
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-blue)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![Git](https://img.shields.io/badge/Git-orange)
+![Linux](https://img.shields.io/badge/Linux-black)
+
+---
+
+## 🚀 Featured Projects
+
+### ⚔️ **AI-Powered D&D Character Creator**
+A character creation assistant for the classic tabletop fantasy game
+**Python · Quart · OpenAI (ChatGPT) API · Poetry**
+- Engineered a backend application to simulate character creation workflow
+- Implemented query optimization and prompt engineering logic
+- Application includes automated unit testing and mocked API responses
+
+### 🏋️ **StrengthSync**
+Android resistance training companion app  
+**Kotlin · Room · MVVM**
+- Personalized algorithmic workout plan generation based on user preferences
+- Persistent data with Room database
+- Focus on maintainable architecture and clean UI logic
+
+### 🌕 **Lunar Lander **
+Clasic retro arcade game rebuilt
+**C# · Windows Forms · Custom Physics Engine**
+- Engineered a full custom physics engine in C#
+- Built with modular, object-oriented structure
+- Implemented interactive UI systems for menus and other HUD elements
+
+---
+
+## 📊 GitHub Stats
+
+![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordan1819&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordan1819&layout=compact)
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 [LinkedIn](www.linkedin.com/in/jordan-waite-0a102739b)
+- 🌐 [My Website](https://jordan1819.github.io/personal_portfolio/)
+- 📧 Open to collaboration and opportunities
+
+---
+
+> *“Always leave the codebase better than you found it.”*
+
