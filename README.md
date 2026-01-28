@@ -61,7 +61,7 @@ Clasic retro arcade game
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn]([https://linkedin.com/in/jordan-waite-0a102739b](https://www.linkedin.com/in/jordan-waite-0a102739b/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/jordan-waite-0a102739b/)
 - 🌐 [My Website](https://jordan1819.github.io/personal_portfolio/)
 - 📧 Open to collaboration and opportunities
 
