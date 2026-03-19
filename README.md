@@ -13,7 +13,6 @@
 
 ![Python](https://img.shields.io/badge/Python-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-green)
-![Java](https://img.shields.io/badge/Java-red)
 ![C#](https://img.shields.io/badge/C%23-purple)
 ![Kotlin](https://img.shields.io/badge/Kotlin-black)
 
