@@ -9,6 +9,8 @@
 
 ## 🌐 [Check out my Portfolio Site](https://jordan1819.github.io/personal_portfolio/)
 
+___
+
 ## 🧰 Tech Stack
 
 **Languages**
