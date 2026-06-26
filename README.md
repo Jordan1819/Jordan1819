@@ -7,6 +7,8 @@
 
 ---
 
+##🌐 [Check out my Portfolio Site](https://jordan1819.github.io/personal_portfolio/)
+
 ## 🧰 Tech Stack
 
 **Languages**
@@ -26,6 +28,13 @@
 ---
 
 ## 🚀 Featured Projects
+
+### 🏋️ **IronLog**
+A minimalist full-stack workout tracker for logging resistance training and visualizing progress  
+**React · Vite · React Router · Recharts · Supabase · PostgreSQL · Vercel**
+- Built private workout logging with Supabase Auth and Row Level Security
+- Implemented multi-exercise session tracking with set-level reps, weight, and live volume totals
+- Created dashboard views for total volume, exercise rankings, and recent session history
 
 ### ⚔️ **AI-Powered D&D Character Creator**
 A character creation assistant for the classic tabletop fantasy game  
@@ -59,7 +68,6 @@ Clasic retro arcade game
 ## 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jordan-waite-0a102739b/)
-- 🌐 [My Website](https://jordan1819.github.io/personal_portfolio/)
 - 📧 Open to collaboration and opportunities
 
 ---
