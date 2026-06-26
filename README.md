@@ -7,7 +7,7 @@
 
 ---
 
-##🌐 [Check out my Portfolio Site](https://jordan1819.github.io/personal_portfolio/)
+## 🌐 [Check out my Portfolio Site](https://jordan1819.github.io/personal_portfolio/)
 
 ## 🧰 Tech Stack
 
