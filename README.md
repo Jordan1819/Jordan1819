@@ -33,6 +33,7 @@
 
 ### 🏋️ **IronLog** 
 [Check it out here](https://iron-log-eta-gilt.vercel.app/auth)
+
 A minimalist full-stack workout tracker for logging resistance training and visualizing progress  
 **React · Vite · React Router · Recharts · Supabase · PostgreSQL · Vercel**
 - Built private workout logging with Supabase Auth and Row Level Security
@@ -41,6 +42,7 @@ A minimalist full-stack workout tracker for logging resistance training and visu
 
 ### ⚔️ **AI-Powered D&D Character Creator** 
 [Check it our here](https://github.com/Jordan1819/AI-Powered_D-D_Character_Creator)
+
 A character creation assistant for the classic tabletop fantasy game  
 **Python · Quart · OpenAI (ChatGPT) API · Poetry**
 - Engineered a backend application to simulate character creation workflow
@@ -49,6 +51,7 @@ A character creation assistant for the classic tabletop fantasy game
 
 ### 🏋️ **StrengthSync** 
 [Check it out here](https://github.com/Jordan1819/StrengthSync-Android-App)
+
 Android resistance training companion app  
 **Kotlin · Room DB· Android Studio**
 - Personalized algorithmic workout plan generation based on user preferences
@@ -57,6 +60,7 @@ Android resistance training companion app
 
 ### 🌕 **Lunar Lander** 
 [Check it our here](https://github.com/Jordan1819/Lunar-Lander-in-C-Sharp)
+
 Clasic retro arcade game  
 **C# · Windows Forms · Custom Physics Engine**  
 - Engineered a full custom physics engine in C#
