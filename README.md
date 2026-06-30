@@ -1,31 +1,45 @@
 # 👋 Hi, I'm Jordan
 
-🛠️ Junior Software Engineer  
-💻 Passionate about building pragmatic software with strong architectural foundations  
-🧠 Interested in system design, full-stack development, and AI engineering  
-🏋️ Always optimizing — code, health, and mindset  
+**Software Engineer (Full-Stack | AI Systems )**
 
----
+Building pragmatic, production-minded software with a focus on reliability, clean architecture, and real-world usability.
 
-## 🌐 [Check out my Portfolio Site](https://jordan1819.github.io/personal_portfolio/)
+I enjoy working across the stack — from React frontends to backend systems and AI-integrated workflows — with an emphasis on impact, maintainability, and shipping working software in real environments.
+ 
+
+🌐 [Portfolio Site](https://jordan1819.github.io/personal_portfolio/)
+
+💼 [LinkedIn](https://www.linkedin.com/in/jordan-waite-0a102739b/)
+
+📫 Open to SWE / Full-Stack / AI Engineering roles
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages**
-
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![C#](https://img.shields.io/badge/C%23-purple)
 ![Kotlin](https://img.shields.io/badge/Kotlin-black)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
 
-**Frameworks & Tools**
-
+**Frontend**  
 ![React](https://img.shields.io/badge/React-blue)
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+
+**Backend / Infra**  
 ![Node.js](https://img.shields.io/badge/Node.js-green)
-![Git](https://img.shields.io/badge/Git-orange)
-![Linux](https://img.shields.io/badge/Linux-black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+![Docker](https://img.shields.io/badge/Docker-blue)
+![AWS](https://img.shields.io/badge/AWS-orange)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black)
+![Supabase](https://img.shields.io/badge/Supabase-purple)
+![Vercel](https://img.shields.io/badge/Vercel-yellow)
+
+**Tools & Practices**  
+Git · Linux · REST APIs · CI/CD · Agile workflows · Debugging · Software Testing · Relational Database Design & Integration · Dependency Management · Version Control · Collaborative Development
 
 ---
 
@@ -66,12 +80,6 @@ Clasic retro arcade game
 - Engineered a full custom physics engine in C#
 - Built with modular, object-oriented structure
 - Implemented interactive UI systems for menus and other HUD elements
-
----
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordan1819&layout=compact&theme=transparent)
 
 ---
 
